@@ -1,0 +1,9 @@
+@import "foundation";
+
+.test-row-width {
+    width: grid-calc(6, 12);
+}
+
+.test-button-extended {
+    @extend .button;
+}
