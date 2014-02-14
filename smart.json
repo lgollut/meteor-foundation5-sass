@@ -6,7 +6,7 @@
   "version": "0.0.5",
   "git": "https://github.com/lgollut/meteor-foundation5-sass.git",
   "packages": {
-    "scss": "0.7.0",
+    "scss": "",
     "jquery": ""
   }
 }
