@@ -3,8 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use('scss', 'client');
-  
+  api.use("scss", ['client', 'server']);
+
   api.add_files([
     "js/foundation/foundation.js",
     "js/foundation/foundation.abide.js",
