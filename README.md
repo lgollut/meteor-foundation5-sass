@@ -1,7 +1,7 @@
 meteor-foundation5-sass
 =======================
 
-[![Build Status](https://travis-ci.org/lgollut/meteor-foundation5-sass.png?branch=v0.0.5)](https://travis-ci.org/lgollut/meteor-foundation5-sass)
+[![Build Status](https://travis-ci.org/lgollut/meteor-foundation5-sass.png?branch=v0.0.6)](https://travis-ci.org/lgollut/meteor-foundation5-sass)
 
 A foundation 5 Meteor package with sass support
 
