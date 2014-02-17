@@ -1,12 +1,18 @@
-meteor-foundation5-sass
-=======================
+# meteor-foundation5-sass
 
 [![Build Status](https://travis-ci.org/lgollut/meteor-foundation5-sass.png?branch=v0.0.8)](https://travis-ci.org/lgollut/meteor-foundation5-sass)
 
-A foundation 5 Meteor package with sass support
+A Foundation 5 Meteor package with sass support
 
 
-How to use
-----------
+## How to use
+
+
+### Add the sccs file
 
 add `@import "packages/foundation5-sass/foundation";` to your main .scss file
+
+
+### Initialize Foundation js
+
+add `{{init-foundation}}` at the very end of the body tag of your page or at the end of your layout template.
