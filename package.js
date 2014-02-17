@@ -4,6 +4,7 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.use("scss", ['client', 'server']);
+  api.use('handlebars', 'client');
 
   api.add_files([
     "js/foundation/foundation.js",
@@ -21,7 +22,8 @@ Package.on_use(function (api) {
     "js/foundation/foundation.reveal.js",
     "js/foundation/foundation.tab.js",
     "js/foundation/foundation.tooltip.js",
-    "js/foundation/foundation.topbar.js"
+    "js/foundation/foundation.topbar.js",
+    "foundation.js"
   ], "client");
 });
 
