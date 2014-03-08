@@ -4,10 +4,12 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.use("scss", ['client', 'server']);
+  api.imply('scss', ['client', 'server']);
   api.use('handlebars', 'client');
 
   api.add_files([
     "js/vendor/modernizr.js",
+    "js/vendor/jquery.js",
     "js/foundation/foundation.js",
     "js/foundation/foundation.abide.js",
     "js/foundation/foundation.accordion.js",
