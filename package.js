@@ -9,7 +9,6 @@ Package.on_use(function (api) {
 
   api.add_files([
     "js/vendor/modernizr.js",
-    "js/vendor/jquery.js",
     "js/foundation/foundation.js",
     "js/foundation/foundation.abide.js",
     "js/foundation/foundation.accordion.js",
