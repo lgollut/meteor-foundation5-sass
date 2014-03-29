@@ -2,6 +2,10 @@
 
 A Foundation 5 Meteor package with sass support.
 
+## Foundation Version
+
+This package use version 5.2.1 of Foundation
+
 ## Meteor 0.8.0
 
 Please use v0.0.12 or above with Meteor 0.8.0. For those stuck in earlier version of Meteor, get v0.0.11.

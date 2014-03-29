@@ -23,6 +23,7 @@ Package.on_use(function (api) {
     "js/foundation/foundation.offcanvas.js",
     "js/foundation/foundation.orbit.js",
     "js/foundation/foundation.reveal.js",
+    "js/foundation/foundation.slider.js",
     "js/foundation/foundation.tab.js",
     "js/foundation/foundation.tooltip.js",
     "js/foundation/foundation.topbar.js",
